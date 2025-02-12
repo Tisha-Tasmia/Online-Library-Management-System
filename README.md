@@ -18,6 +18,9 @@ University, Bangladesh for the partial fulfilment of my Bachelor degree**.
 
 An automated system designed to streamline library management by providing a digital platform for book cataloging, record-keeping, and user interactions.
 
+**The workflowchart:**
+![Circuit Diagram](https://raw.githubusercontent.com/Tisha-Tasmia/Online-Library-Management-System/refs/heads/main/Work_flowchart.png.png)
+
 **Key Features:**
 
 **•	User Management:** 
@@ -53,9 +56,6 @@ o	Librarian access to manage user accounts, add/remove books, and generate repor
 •	Database: MySQL
 
 •	Frontend Framework: Bootstrap (for user interface)
-
-**The workflowchart:**
-
 
 **Project Structure:**
 •	index.html: Main entry point for the user interface.
